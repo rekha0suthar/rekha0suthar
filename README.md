@@ -47,18 +47,19 @@
 <a href="https://github.com/rekha0suthar/insta-clone" target="blank">![insta](https://github.com/user-attachments/assets/1d120538-38ed-4d03-b66b-182cd04e1af8)
 </a>
 
-
 <h4>2. Todo App </h4>
 
 <a href="https://github.com/rekha0suthar/task-manager/" target="blank">![task](https://github.com/user-attachments/assets/f766f956-475d-4648-835e-8f4cc1039781)</a>
 
-<h2>3. Secret Sphere</h2>
-<a href="https://github.com/rekha0suthar/secret-sphere/" target="blank">![social](https://github.com/user-attachments/assets/1ec3b7c6-6339-40c5-9484-a73e77699cbf)</a>
+<h4>3.  Secret Sphere </h4>
 
-<h2>4. Expense Tracker</h2>
+<a href="https://github.com/rekha0suthar/insta-clone" target="blank">![social](https://github.com/user-attachments/assets/86becf53-0825-4d1c-a4eb-0c3ace61a887)
+
+</a>
+
+<h4>4. Expense Tracker</h4>
 
 <a href="https://github.com/rekha0suthar/expense-trackor/" target="blank">![expense](https://github.com/user-attachments/assets/d8b37f91-ebda-4d10-8423-8166145edc85)
-</a>
 </a>
 
 <div align="center">
