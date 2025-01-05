@@ -30,16 +30,6 @@
 </p>
 
 ---
-
-<h1 align="center">STATS</h1>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rekha0suthar" alt="rekha0suthar" /> </p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rekha0suthar&theme=gotham&show_icons=true" alt="rekha0suthar" />
-
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=rekha0suthar&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="rekha0suthar" />
-
----
 <h1 align="center">PROJECTS</h1>
 
 <h4>1. Insta Clone </h4>
