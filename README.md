@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Rekha Suthar</h1>
-<h3 align="center">I'm an Full Stack Developer and a 21-year old technical enthusiast who does web development, and Designing. Passionate to contribute open-source projects and create cool web applications.</h3>
+<h3 align="center">I'm an Full Stack Developer and technical enthusiast who does web development, and Designing. Passionate to contribute open-source projects and create cool web applications.</h3>
 
 ---
 
