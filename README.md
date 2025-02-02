@@ -14,12 +14,12 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)<br> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff)<br> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=fff)<br> ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)<br> ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)<br> ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=fff)<br> ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=fff)<br> ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff)<br> ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=fff)<br> ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=fff) |
 
-<h2>Certificates</h2>
+<h2>CERTIFICATES</h2>
 
-Hackathon - Web Development Winning Certificate
+#### Hackathon - Web Development Winning Certificate
 ![hackalon](https://github.com/user-attachments/assets/a02db644-a79d-4886-8ae1-2787dffd7323)
 
-upGrad - Full Stack Development Bootcamp Completion Certificate
+#### upGrad - Full Stack Development Bootcamp Completion Certificate
 ![upgrad](https://github.com/user-attachments/assets/dffe76d5-8cb2-454e-8c91-d5e89ab2772f)
 
 <h2>PROJECTS</h2>
