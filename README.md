@@ -1,65 +1,76 @@
 <h2 align="center">Hi 👋, I'm Rekha Suthar</h1>
-<h3 align="center">I'm an Full Stack Developer and technical enthusiast who does web development, and Designing. Passionate to contribute open-source projects and create cool web applications.</h3>
+<h3 align="center">I’m a Full-Stack Developer and tech enthusiast focused on creating web apps and open-source contributions.</h3>
+
+
+- 🌱 Currently learning **AWS**, **Nextjs** and **Docker**.
+- 🔭 Working on an exciting projects.
+- 💬 Ask me about **React**, **Node.js**, or **UI/UX**.
+- 📫 How to reach me: [rekha@suthar@gmail.com](mailto:rekha@suthar@gmail.com)
+- ⚡ Fun fact: I love reading Novels and watching Animes.
+
+<h2>TECHNOLOGY</h2>
+
+| **Languages**                                                                                                                                                                             | **Frontend Frameworks**                                                                                                                                                                                                                                                                             | **Back-End & Databases**                                                                                                                                                                                                | **Tools**                                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)<br> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff)<br> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=fff)<br> ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)<br> ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)<br> ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=fff)<br> ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=fff)<br> ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff)<br> ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=fff)<br> ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=fff) |
+
+
+<h2>PROJECTS</h2>
+
+<h4>1. Bankfresh - Netbanking Application </h4>
+<p>A netbanking application with features like Online bank account opening, user registeration, Dashboard - Balance, Account Statement, Money Transfer, Card Management and Utility Bills.</p>
+
+<a href="https://github.com/rekha0suthar/bankfresh" target="blank">Repo</a> | <a href="https://bankfresh-netbanking.vercel.app/" target="blank">Live Demo</a>
+
+
+![bankfresh](https://github.com/user-attachments/assets/03aadc66-a7a0-4dd0-890b-5189af4631dc)
 
 ---
 
-- 🔭  [Portfolio](https://rekha-suthar-portfolio.netlify.app/)
+<h4>2. Insta Clone </h4>
+<p>A social-media-inspired project where users can post photos, follow friends, and leave comments.</p>
 
-- 🌱 I’m a **M E R N** Stack Developer
+<a href="https://github.com/rekha0suthar/insta-clone" target="blank">Repo</a> | <a href="https://insta-clone-eight-jade.vercel.app/" target="blank">Live Demo</a>
 
-- 📫 How to reach me **rekha0suthar@gmail.com**
+![insta](https://github.com/user-attachments/assets/1d120538-38ed-4d03-b66b-182cd04e1af8)
+
+
+---
+<h4>3. Task Manager </h4>
+<p>A task management application with features like add tasks, edit and delete tasks, Adding due date and marking tasks as completed.</p>
+
+<a href="https://github.com/rekha0suthar/task-manager/" target="blank">Repo</a> | <a href="https://taskify-two-umber.vercel.app/" target="blank">Live Demo</a>
+
+![task](https://github.com/user-attachments/assets/f766f956-475d-4648-835e-8f4cc1039781)
 
 ---
 
-<h1 align="center">TECHNOLOGY</h1>
+<h4>4.  Secret Sphere </h4>
+<p>Simple Secret sharing application. Users can create account and share their secret and others will not know whos secret is.</p>
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="height:4rem; background-color:white"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="height: 4rem; background-color:white"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="height: 4rem; background-color:white"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="height: 4rem; background-color:white"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; background-color:white"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
-</p>
+<a href="https://github.com/rekha0suthar/secret-sphere" target="blank">Repo</a> | <a href="https://secret-sphere.vercel.app/" target="blank">Live Demo</a>
 
----
-<h1 align="center">PROJECTS</h1>
+![social](https://github.com/user-attachments/assets/86becf53-0825-4d1c-a4eb-0c3ace61a887)
 
-<h4>1. Insta Clone </h4>
-
-<a href="https://github.com/rekha0suthar/insta-clone" target="blank">![insta](https://github.com/user-attachments/assets/1d120538-38ed-4d03-b66b-182cd04e1af8)
-</a>
-
----
-<h4>2. Todo App </h4>
-
-<a href="https://github.com/rekha0suthar/task-manager/" target="blank">![task](https://github.com/user-attachments/assets/f766f956-475d-4648-835e-8f4cc1039781)</a>
 
 ---
 
-<h4>3.  Secret Sphere </h4>
+<h4>5. Expense Tracker</h4>
+<p>A task management application with features like add tasks, edit and delete tasks, Adding due date and marking tasks as completed.</p>
 
-<a href="https://github.com/rekha0suthar/insta-clone" target="blank">![social](https://github.com/user-attachments/assets/86becf53-0825-4d1c-a4eb-0c3ace61a887)
+<a href="https://github.com/rekha0suthar/expense-trackor/" target="blank">Repo</a> | <a href="https://expense-tracker-app-pearl-ten.vercel.app/" target="blank">Live Demo</a>
 
-</a>
+![expense](https://github.com/user-attachments/assets/d8b37f91-ebda-4d10-8423-8166145edc85)
 
----
 
-<h4>4. Expense Tracker</h4>
+<h2>GitHub STATS</h2>
 
-<a href="https://github.com/rekha0suthar/expense-trackor/" target="blank">![expense](https://github.com/user-attachments/assets/d8b37f91-ebda-4d10-8423-8166145edc85)
-</a>
+[![Rekha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rekha0suthar&show_icons=true)](https://github.com/rekha0suthar)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rekha0suthar&layout=compact)](https://github.com/rekha0suthar)
 
----
-<div align="center">
-<a href="https://www.linkedin.com/in/rekha0suthar/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
-</a>
-</div>
+
+<h2>Connect With Me</h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rekha0suthar/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet)](https://rekha-suthar-portfolio.netlify.app/)
 
