@@ -23,8 +23,26 @@
 ![upgrad](https://github.com/user-attachments/assets/dffe76d5-8cb2-454e-8c91-d5e89ab2772f)
 
 <h2>PROJECTS</h2>
+<h4>1. Shortify - URL Shortener </h4>
+<p>Shortify is a professional and user-friendly URL shortening application designed to help users create, manage, and analyze short links effortlessly.</p>
 
-<h4>1. Bankfresh - Netbanking Application </h4>
+<a href="https://github.com/rekha0suthar/url-shorten" target="blank">Repo</a> | <a href="https://shortify-nu.vercel.app/" target="blank">Live Demo</a>
+
+![shortify](https://github.com/user-attachments/assets/b3c5dac7-1037-477e-9783-6b7b5afdeb5d)
+
+
+---
+<h4>2. Taskify - Task Manager </h4>
+<p>A task management application with features like add tasks, edit and delete tasks, Adding due date and marking tasks as completed.</p>
+
+<a href="https://github.com/rekha0suthar/task-manager/" target="blank">Repo</a> | <a href="https://taskify-two-umber.vercel.app/" target="blank">Live Demo</a>
+
+![task](https://github.com/user-attachments/assets/287a856e-ea5b-4b89-bc01-c297865e93d3)
+
+
+--- 
+
+<h4>3. Bankfresh - Netbanking Application </h4>
 <p>A netbanking application with features like Online bank account opening, user registeration, Dashboard - Balance, Account Statement, Money Transfer, Card Management and Utility Bills.</p>
 
 <a href="https://github.com/rekha0suthar/bankfresh" target="blank">Repo</a> | <a href="https://bankfresh-netbanking.vercel.app/" target="blank">Live Demo</a>
@@ -34,25 +52,16 @@
 
 ---
 
-<h4>2. Insta Clone </h4>
+<h4>4. Insta Clone </h4>
 <p>A social-media-inspired project where users can post photos, follow friends, and leave comments.</p>
 
 <a href="https://github.com/rekha0suthar/insta-clone" target="blank">Repo</a> | <a href="https://insta-clone-eight-jade.vercel.app/" target="blank">Live Demo</a>
 
 ![insta](https://github.com/user-attachments/assets/1d120538-38ed-4d03-b66b-182cd04e1af8)
 
-
----
-<h4>3. Task Manager </h4>
-<p>A task management application with features like add tasks, edit and delete tasks, Adding due date and marking tasks as completed.</p>
-
-<a href="https://github.com/rekha0suthar/task-manager/" target="blank">Repo</a> | <a href="https://taskify-two-umber.vercel.app/" target="blank">Live Demo</a>
-
-![task](https://github.com/user-attachments/assets/f766f956-475d-4648-835e-8f4cc1039781)
-
 ---
 
-<h4>4.  Secret Sphere </h4>
+<h4>5.  Secret Sphere </h4>
 <p>Simple Secret sharing application. Users can create account and share their secret and others will not know whos secret is.</p>
 
 <a href="https://github.com/rekha0suthar/secret-sphere" target="blank">Repo</a> | <a href="https://secret-sphere.vercel.app/" target="blank">Live Demo</a>
@@ -62,7 +71,7 @@
 
 ---
 
-<h4>5. Expense Tracker</h4>
+<h4>6. Expense Tracker</h4>
 <p>A task management application with features like add tasks, edit and delete tasks, Adding due date and marking tasks as completed.</p>
 
 <a href="https://github.com/rekha0suthar/expense-trackor/" target="blank">Repo</a> | <a href="https://expense-tracker-app-pearl-ten.vercel.app/" target="blank">Live Demo</a>
