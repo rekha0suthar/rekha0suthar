@@ -35,7 +35,7 @@
 <h4>2. Taskify - Task Manager </h4>
 <p>A task management application with features like add tasks, edit and delete tasks, Adding due date and marking tasks as completed.</p>
 
-<a href="https://github.com/rekha0suthar/task-manager/" target="blank">Repo</a> | <a href="https://taskify-two-umber.vercel.app/" target="blank">Live Demo</a>
+<a href="https://github.com/rekha0suthar/task-manager/" target="_blank">Repo</a> | <a href="https://taskify-two-umber.vercel.app/" target="_blank">Live Demo</a>
 
 ![task](https://github.com/user-attachments/assets/287a856e-ea5b-4b89-bc01-c297865e93d3)
 
