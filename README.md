@@ -6,6 +6,7 @@
 - 🔭 Working on an exciting projects.
 - 💬 Ask me about **React**, **Node.js**, or **UI/UX**.
 - 📫 How to reach me: [rekha@suthar@gmail.com](mailto:rekha@suthar@gmail.com)
+- My Portfolio: [Portfolio](https://rekha-suthar-portfolio.netlify.app)
 - ⚡ Fun fact: I love reading Novels and watching Animes.
 
 <h2>TECHNOLOGY</h2>
