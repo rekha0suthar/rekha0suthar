@@ -79,13 +79,6 @@
 
 ![expense](https://github.com/user-attachments/assets/d8b37f91-ebda-4d10-8423-8166145edc85)
 
-
-<h2>GitHub STATS</h2>
-
-[![Rekha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rekha0suthar&show_icons=true)](https://github.com/rekha0suthar)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rekha0suthar&layout=compact)](https://github.com/rekha0suthar)
-
-
 <h2>Connect With Me</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rekha0suthar/)
