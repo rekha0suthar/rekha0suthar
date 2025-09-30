@@ -1,22 +1,15 @@
-<!-- Header: typing banner + quick badges -->
+<h1 align="center">Rekha Suthar</h1>
+<h3 align="center">Full‑Stack Developer (MERN) • Open‑Source Enthusiast</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Rekha+Suthar;Full‑Stack+Developer;Open‑Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
+  I build fast, accessible, and maintainable web applications — and I enjoy turning ideas into working products.
 </p>
 
-<p align="center">
-  <a href="mailto:rekha.suthar@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rekha.suthar%40gmail.com-2ea44f?style=flat-square"></a>
-  <a href="https://www.linkedin.com/in/rekha0suthar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"></a>
-  <a href="https://rekha-suthar-portfolio.netlify.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Open-7B61FF?style=flat-square"></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=rekha0suthar&style=flat-square&color=blue" />
-</p>
-
-<h1 align="center">Building useful web apps with care and clarity.</h1>
-
-<p align="center">
-  🌱 <b>Learning:</b> AWS · Next.js · Docker &nbsp;•&nbsp;
-  💬 <b>Ask me about:</b> React · Node.js · UI/UX &nbsp;•&nbsp;
-  ⚡ <b>Fun:</b> novels + anime
-</p>
+- 🌱 <b>Learning:</b> AWS · Next.js · Docker  
+- 🔭 <b>Currently:</b> Shipping full‑stack projects and refining UX flows  
+- 💬 <b>Ask me about:</b> React · Node.js · UI/UX  
+- 📫 <b>Email:</b> <a href="mailto:rekha.suthar@gmail.com">rekha.suthar@gmail.com</a>  
+- 🌐 <b>Portfolio:</b> <a href="https://rekha-suthar-portfolio.netlify.app">rekha-suthar-portfolio.netlify.app</a>  
+- ⚡ <b>Fun:</b> novels & anime
 
 ---
 
@@ -32,7 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="React" title="React"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="38" alt="Redux" title="Redux"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="38" alt="Next.js" title="Next.js"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="38" alt="TailwindCSS" title="TailwindCSS"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="38" alt="Bootstrap" title="Bootstrap"/>&nbsp;
   <!-- Back-end -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="Node.js" title="Node.js"/>&nbsp;
@@ -41,7 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="38" alt="Firebase" title="Firebase"/>&nbsp;
   <!-- DevOps & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="Docker" title="Docker"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="38" alt="AWS" title="AWS"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git" title="Git"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="38" alt="GitHub" title="GitHub"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="38" alt="npm" title="npm"/>
