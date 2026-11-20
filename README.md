@@ -1,6 +1,6 @@
 # Rekha Suthar
 
-Applied AI / full-stack engineer · BSc in Data Science and Programming, IIT Madras · Bangalore
+Applied AI / full-stack engineer · BSc in Data Science and Programming, IIT Madras · Jaipur
 
 I build AI products end to end — retrieval pipelines, LLM apps with honest evaluation, and the React/Node frontends and APIs around them.
 
